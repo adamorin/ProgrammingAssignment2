@@ -8,7 +8,7 @@
 ## which you can use to get and set functions to get and set
 ## setinverse and getinverse can be used to set or get the inverse
 ## example of use
-## a = makeMatrix()
+## a = makeCacheMatrix()
 ## a$set(matrix(1:4,2,2))
 ## a$get()
 
